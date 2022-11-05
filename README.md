@@ -2,7 +2,19 @@
 - 👀 I’m interested in React / Flutter Developer.
 - 🌱 I’m currently learning React JS.
 - 💞️ I’m looking to collaborate on Flutter App Developer.
-- 📫 How to reach me @ya.sh.73 in instagram.
+- 📫 How to reach me : yash.jain56@yahoo.com
+
+
+
+📊 Github Stats 
+
+![Most used language](https://github-readme-stats.vercel.app/api?username=gityash56)
+ 
+<p > 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/gityash56/count.svg" />
+</p>
+
 
 <!---
 gityash56/gityash56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
