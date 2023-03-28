@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @gityash56
-- 👀 I’m interested in React / Flutter Developer.
-- 🌱 I’m currently learning React JS.
-- 💞️ I’m looking to collaborate on JS Developer.
-- 📫 How to reach me : yash.jain56@yahoo.com
+🔭 : I’m currently searching for new Projects
 
+🌱 : I’m currently learning Flutter,Figma
 
+👯 : I want to contribute as Flutter Developer
+
+👨‍💻 : Few of my projects are available at My GitHub
+
+📫 : How to reach me  yash.jain56@yahoo.com
+
+⚡ : Fun fact I love TO Google flutter related material.
 
 📊 Github Stats 
 
