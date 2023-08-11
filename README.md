@@ -1,5 +1,3 @@
-🔭 : I’m currently searching for new Projects
-
 🌱 : I’m currently learning Flutter,Figma
 
 👯 : I want to contribute as Flutter Developer
